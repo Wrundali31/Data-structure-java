@@ -1,7 +1,8 @@
+//program to insert elements in array
 import java.io.*;
 import java.lang.*;
 import java.util.*;
-class Insert
+class Insert_array
 {
 public static int[] insertX(int n, int arr[],int x,int pos)
 {
